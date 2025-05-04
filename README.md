@@ -1,10 +1,4 @@
 
-- 📚 I'm a sophomore studying Psychology, Computer Science and Mathematics at the University of Toronto 
-- 🧠 Currently learning about computational neuroscience and artificial intelligence
-- 👩‍💻 Lead as the Director Of Event Operations (Computational Sciences Division) in the Women in Science and Computing Club
-- 🧪 In search of neuroscience and decision intelligence research opportunities
-
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
