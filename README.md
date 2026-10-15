@@ -4,7 +4,7 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FpcnZocXpjbmZ4NXFzaGVkcGI4OXduOGU3aG5mbjlxbWxhZnIxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4JyNNqiVzBMbDOVO/giphy.gif" /></p>
 
 
 - Analista de Ciberseguridad con experiencia en monitoreo, detección de amenazas y gestión de incidentes de seguridad 🛡️.
