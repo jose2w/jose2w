@@ -14,15 +14,7 @@
 <h3 align="left">Connecta conmigo:</h3>
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/josemerlano" rel="nofollow">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldjkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg"
-      alt="adam pithewan"
-      height="30"
-      width="40"
-      style="max-width: 100%; height: auto; max-height: 30px; aspect-ratio: 40 / 30; background-color: var(--bgColor-muted); border-radius: 6px"
-      class="js-image-fallback"
-    >
+  Linkedin
   </a>
 </p>
 
