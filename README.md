@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="left">Conecta conmigo en LinkedIn</h3>
+<h2 align="left">Conecta conmigo en LinkedIn:</h2>
 <p align="left" dir="auto">
   <a href="https://www.linkedin.com/in/josemerlano" rel="nofollow">
   Linkedin
