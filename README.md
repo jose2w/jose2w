@@ -14,8 +14,7 @@
 <h3 align="left">Connecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/josemerlano/" target="blank"><img align="center"
-      src="https://brandfetch.com/linkedin.com?view=library&library=default&collection=logos&asset=idaKD-mSu2&utm_source=https%253A%252F%252Fbrandfetch.com%252Flinkedin.com&utm_medium=copyAction&utm_campaign=brandPageReferral"
-      alt="adam pithewan" height="30" width="40" />
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </p>
 
 <br>
