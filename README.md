@@ -7,7 +7,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🛡️ Analista de Ciberseguridad con experiencia en monitoreo, detección de amenazas y gestión de incidentes de seguridad.
+- Analista de Ciberseguridad con experiencia en monitoreo, detección de amenazas y gestión de incidentes de seguridad 🛡️.
 
 <br>
 
