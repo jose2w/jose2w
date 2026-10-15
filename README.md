@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Jose Merlano</h1>
-<h3 align="center">Ingeniero de sistemas.</h3>
+<h3 align="center">Ingeniero de sistemas</h3>
 
 <br>
 
